@@ -38,10 +38,11 @@ You also have to allow insecure content in the site settings.
 
 
 ### Contributors
+ * *Justin Sun*
  * *Omar Ibrahim*
  * *Philip Cheng*
  * *William Chien*
  * *Anthony Cui*
  * *Jacek Dziewonski*
  * *Cayce McClenen*
- * *Justin Sun*
+ 
